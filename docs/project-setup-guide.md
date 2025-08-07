@@ -71,7 +71,7 @@ This guide walks through the process of securely connecting Azure workloads and 
 
 
 *Output Screenshot:*  
-![Ping Test](../architecture/screenshots/ping-testing-successful.jpg.png)
+![Ping Test](../architecture/screenshots/ping-testing-successful.jpg.jpeg)
 
 ---
 
