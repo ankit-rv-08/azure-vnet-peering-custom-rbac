@@ -19,7 +19,7 @@ This project demonstrates secure connectivity between Azure workloads using VNet
 
 | VNet Peering                  | Ping Test                 | Custom RBAC Role           | RBAC Role Assignment       |
 |------------------------------|---------------------------|----------------------------|---------------------------|
-| ![VNet Peering](architecture/screenshots/Vnet-peering.jpg.png) | ![Ping Test](architecture/screenshots/ping-testing-successful.jpg.png) | ![Custom RBAC Role](architecture/screenshots/custom-rbac-role.jpg.png) | ![RBAC Assignment](architecture/screenshots/task-5.jpg.png) |
+| ![VNet Peering](architecture/screenshots/Vnet-peering.jpg.png) | ![Ping Test](architecture/screenshots/ping-testing-successful.jpg.jpeg) | ![Custom RBAC Role](architecture/screenshots/custom-rbac-role.jpg.png) | ![RBAC Assignment](architecture/screenshots/task-5.jpg.png) |
 
 
 ## Quick Start
